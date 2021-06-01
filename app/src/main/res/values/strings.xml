@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="start">START</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question_1">Question Title</string>
+    <string name="next">Next</string>
+    <string name="Toast">Quiz Completed!</string>
+    <string name="submit">Submit</string>
+    <string name="check_results">Check Results</string>
+    <string name="question_number">Question Number</string>
+    <string name="results_are_here">Results are here:</string>
+    <string name="total_questions_3">Total Questions : 3</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="correct">Correct</string>
+    <string name="font">sans-serif-thin</string>
+    <string name="myName">Pratham Dhawan</string>
+</resources>
